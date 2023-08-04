@@ -1,0 +1,12 @@
+*lock.y[a]ml
+release.sh
+.release-it.json
+*.sh
+.git
+.gitignore
+.vscode
+src
+*.js.map
+*.tar.gz
+*.zip
+tsconfig*.json

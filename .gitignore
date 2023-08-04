@@ -1,0 +1,7 @@
+node_modules
+*lock.y[a]ml
+.DS_Store
+dist
+release.sh
+launch.json
+.release-it.json
